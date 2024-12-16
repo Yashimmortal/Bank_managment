@@ -14,7 +14,7 @@ Common Features
 -Account Validation: Verify whether an account exists.
 -Deposit Money: Add money to an account.
 -Withdraw Money: Withdraw money while ensuring a minimum balance is maintained.
---Balance Inquiry: Check the current balance of an account.
+-Balance Inquiry: Check the current balance of an account.
 -Update User Details: Modify account holder’s name and age.
 -Account Deletion: Permanently remove an account.
 
